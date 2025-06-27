@@ -58,6 +58,7 @@ This game leverages Gorbagana's unique features:
 1. Clone the repository:
 \`\`\`bash
 git clone https://github.com/your-username/gorbagana-speed-clicker.git
+
 cd gorbagana-speed-clicker
 \`\`\`
 
@@ -73,7 +74,9 @@ cp .env.example .env.local
 
 Edit \`.env.local\` with your configuration:
 \`\`\`
+
 NEXT_PUBLIC_GORBAGANA_RPC_URL=https://your-gorbagana-rpc-endpoint
+
 NEXT_PUBLIC_NETWORK=gorbagana-testnet
 \`\`\`
 
