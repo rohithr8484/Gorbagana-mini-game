@@ -78,6 +78,7 @@ Edit \`.env.local\` with your configuration:
 NEXT_PUBLIC_GORBAGANA_RPC_URL=https://your-gorbagana-rpc-endpoint
 
 NEXT_PUBLIC_NETWORK=gorbagana-testnet
+
 \`\`\`
 
 4. Run the development server:
